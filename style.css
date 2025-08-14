@@ -1,3 +1,7 @@
 * { box-sizing: border-box }
 body { color: #121212; }
+<<<<<<< HEAD
 p { margin: 0; }
+=======
+h1 { font-weight: 400; }
+>>>>>>> ef65a92f88b34a00bde7073522acc28a2e68b2da
